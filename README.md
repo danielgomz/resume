@@ -1,5 +1,9 @@
-# resume
+# Hi,
 resume ("githack link here")
+
+I'm looking for opportunities to widen my knowledge, experience and expertise in software development alongside with a steady source of income to pursue my dream of building decentralized apps of the future.
+
+Feel free to contact me via email sfdanielgomez@gmail.com
 
 # Work History
 ## Client Development Manager
