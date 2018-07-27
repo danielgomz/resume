@@ -1,4 +1,11 @@
 # resume
-resume ("link here")
+resume ("githack link here")
 
-sort out the master resume and select the content that is the most relevent for this project.
+## Work History
+# Client Development Manager
+Bay Area Wedding Fairs, PoshProfiles
+
+March 2018 - June 2018
+
+
+
