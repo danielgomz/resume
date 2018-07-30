@@ -30,6 +30,12 @@ Western Benefit's Group
 
 January 2015 - September 2016
 
+## Biology Assistant
+John A. Burns School of Medicine
+
+August 2012 - July 2013
+
+
 ## CEO/Founder
 D&G Sales and Marketing Solutions LLC
 
