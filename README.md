@@ -15,6 +15,11 @@ Bay Area Wedding Fairs, PoshProfiles
 
 March 2018 - June 2018
 
+## R&D Coordinator
+dosist
+
+December 2017 - February 2018
+
 ## General Manager
 Amoura Development Company 
 
