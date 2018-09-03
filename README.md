@@ -5,10 +5,6 @@ I'm looking for opportunities to widen my knowledge, experience and expertise in
 Feel free to contact me via email sfdanielgomez@gmail.com
 
 # Work History
-## Vacation Counselor
-Great Destinations
-
-July 2018 - Present
 
 ## Client Development Manager
 Bay Area Wedding Fairs, PoshProfiles
