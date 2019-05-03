@@ -1,10 +1,33 @@
 # Hi,
 
-I'm looking for opportunities to widen my knowledge, experience and expertise in sales engineering, cloud solutions, and software development alongside with a steady source of income to pursue my dream of building decentralized apps of the future.
+I'm looking for opportunities to broaden my knowledge, experience and expertise in molecular biology techniques, directed evolution and phage display alongside with a steady source of income to pursue my dream of uncovering the dark matter of the human genome.
 
 Feel free to contact me via email sfdanielgomez@gmail.com
 
-# Work History
+# Experience
+
+## Author
+
+PNAS, bioRxiv
+
+2018 - Present
+
+## Research Assistant 
+
+UCSD School of Medicine Division of Neuroanesthesia 
+
+Jan 2014 - June 2014
+
+## Research Associate. 
+
+JABSOM Tropical Medicine, Medicinal Microbiology, and Pharmacology.
+
+Aug 2012 - June 2013 
+
+## Scientific Ambassador.
+
+UF 
+Dec 2019 - Present
 
 ## Client Development Manager
 Bay Area Wedding Fairs, PoshProfiles
@@ -31,9 +54,9 @@ John A. Burns School of Medicine
 
 August 2012 - July 2013
 
-
-## CEO/Founder
-D&G Sales and Marketing Solutions LLC
+## Founder & CEO
+D.G. Sales and Marketing Solutions LLC
 
 Present
+
 
