@@ -1,16 +1,15 @@
 # Hi,
 
-I'm looking for opportunities to broaden my knowledge, experience and expertise in molecular biology techniques, directed evolution and phage display alongside with a steady source of income to pursue my dream of uncovering the dark matter of the human genome.
+I'm looking for opportunities to broaden my knowledge, experience and expertise in molecular biology techniques, bioninformatics, directed evolution and phage display alongside with a steady source of income to pursue my dream of uncovering the dark matter of the human genome.
 
 Feel free to contact me via email sfdanielgomez@gmail.com
 
 # Experience
 
-## Author
+## Lab Associate Manufacturing 
+ThermoFisher Scientific
 
-PNAS, bioRxiv
-
-2018 - Present
+July 2019 - Present
 
 ## Research Assistant 
 
@@ -25,7 +24,6 @@ JABSOM Tropical Medicine, Medicinal Microbiology, and Pharmacology.
 Aug 2012 - June 2013 
 
 ## Scientific Ambassador.
-
 UF 
 Dec 2019 - Present
 
