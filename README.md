@@ -1,10 +1,16 @@
 # Hi,
 
-I'm looking for opportunities to broaden my knowledge, experience and expertise in molecular biology techniques, bioninformatics, directed evolution and phage display alongside with a steady source of income to pursue my dream of uncovering the dark matter of the human genome.
+I'm looking for opportunities to broaden my knowledge, experience and expertise in molecular biology techniques, "smart" bacteria, (bio)informatics, directed evolution and phage display alongside with a steady source of income to pursue my dream of uncovering the dark matter of the human genome.
 
 Feel free to contact me via email sfdanielgomez@gmail.com
 
 # Experience
+
+## Undergraduate Research Assistant 
+
+UF College of Veterinary Medicine Department of Physiological Sciences 
+
+Jan 2020 - Present
 
 ## Lab Associate Manufacturing 
 ThermoFisher Scientific
@@ -37,7 +43,7 @@ dosist
 
 December 2017 - February 2018
 
-## General Manager
+## Assistant General Manager
 Amoura Development Company 
 
 October 2016 - December 2017
@@ -53,7 +59,7 @@ John A. Burns School of Medicine
 August 2012 - July 2013
 
 ## Founder & CEO
-D.G. Sales and Marketing Solutions LLC
+D.G. Sales and Marketing Solutions, LLC
 
 Present
 
